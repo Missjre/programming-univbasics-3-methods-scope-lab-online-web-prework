@@ -1,16 +1,18 @@
 def mario
-  status= 
+  status= 'It's-a me,Mario!'
+  
   puts phrase
-end
+  
+  end
 
 def toadstool
-  puts status
+  "puts 'status'"
 end
 
 def link 
-  puts phrase
+  "puts 'It's Dangerous To Go Alone! Take This.'"
 end  
 
 def any_phrase
-  puts phrase
+  "puts 'Do A Barrel Roll!'"
 end  
