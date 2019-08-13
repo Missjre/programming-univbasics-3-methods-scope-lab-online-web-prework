@@ -1,5 +1,6 @@
 def mario
-  puts out phrase
+  status= 
+  puts phrase
 end
 
 def toadstool
@@ -7,9 +8,9 @@ def toadstool
 end
 
 def link 
-  puts out phrase
+  puts phrase
 end  
 
 def any_phrase
-  puts out phrase
+  puts phrase
 end  
